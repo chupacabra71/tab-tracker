@@ -14,8 +14,11 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "joi": "^14.3.1",
     "morgan": "^1.9.1",
-    "nodemon": "^1.19.4"
+    "sequelize": "^5.21.1",
+    "sqlite3": "^4.1.0",
+    "tedious": "^6.6.0"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
@@ -24,6 +27,7 @@
     "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
-    "eslint-plugin-vue": "^5.2.3"
+    "eslint-plugin-vue": "^5.2.3",
+    "nodemon": "^1.19.4"
   }
 }
