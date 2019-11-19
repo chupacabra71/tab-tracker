@@ -4,9 +4,9 @@
       <v-flex xs6 offset-xs3>
         <v-card>
           <div class="elevation-2">
-            <v-toolbar flat dense class="orange" dark>
+            <v-toolbar app flat dense class="orange" dark>
               <v-toolbar-title>Register</v-toolbar-title>
-            </v-toolbar>
+            </v-toolbar>2
             <div class="pl-4 pr-4 pt-2 pb-2">
               <input
                 type="email"
